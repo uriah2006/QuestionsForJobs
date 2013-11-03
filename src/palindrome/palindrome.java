@@ -2,7 +2,7 @@ package palindrome;
 
 import java.util.Scanner;
 
-public class palindrome {
+public class Palindrome {
 
 	public static void main(String[] args) {
 		// Declarations
@@ -14,7 +14,7 @@ public class palindrome {
 		
 		
 		//gets the word that need to be evaluated
-		System.out.println("enter the word you would like to be evaluated:");
+		System.out.print("enter the word you would like to be evaluated:");
 		word = input.next();
 		input.close();
 		
