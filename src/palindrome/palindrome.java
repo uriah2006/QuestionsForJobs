@@ -15,7 +15,7 @@ public class Palindrome {
 		
 		//gets the word that need to be evaluated
 		System.out.print("enter the word you would like to be evaluated:");
-		word = input.next();
+		word = input.nextLine();
 		input.close();
 		
 		//loop that check the letters from out side in
