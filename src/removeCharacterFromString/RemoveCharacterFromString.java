@@ -1,3 +1,10 @@
+/*Uriah Sypolt
+ * 11/7/2013
+ * 
+ * the program will read in a used inputed text and a character sequence
+ * it will remove the any occurrence of the character sequence from the string
+ * 
+ */
 package removeCharacterFromString;
 
 import java.util.Scanner;

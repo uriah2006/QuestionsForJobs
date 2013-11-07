@@ -1,3 +1,9 @@
+/*Uriah Sypolt
+ * 11/7/2013
+ * 
+ * determines if a word is a palindrome from a users inputed text.
+ * 
+ */
 package palindrome;
 
 import java.util.Scanner;
